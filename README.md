@@ -1,7 +1,6 @@
-# IcarusOS
 # ![IcarusOS](./docs/IcarusOS-Final.png)
 
-# ✨ IcarusOS — A Filosofia do Voo Baixo
+# ✨ IcarusOS 
 
 ## 🔥 Sobre o IcarusOS
 
