@@ -1,8 +1,4 @@
 # IcarusOS
-Perfeito, Vento. Agora com as informações do Makefile, da especificação geral e da segunda parte do projeto, posso te gerar um README muito mais completo, que além de contar a história e filosofia do projeto, também explica de forma clara e profissional **o funcionamento, os requisitos, como rodar, o que ele faz e como ele foi estruturado.**
-
----
-
 # ![IcarusOS](./docs/banner.png)
 
 # ✨ IcarusOS — A Filosofia do Voo Baixo
