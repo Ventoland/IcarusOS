@@ -74,8 +74,6 @@ make clean
 
 > **“A sabedoria do voo não está em tocar o sol, mas em dominar a brisa constante da altitude perfeita.”**
 
-O **IcarusOS** é mais do que um simulador. É uma ferramenta de aprendizado e reflexão sobre os fundamentos que sustentam os sistemas operacionais. Ele permite entender e visualizar, de forma concreta, como o núcleo de um SO gerencia processos, recursos e eventos.
-
 ---
 
 ## 🛠️ Contribuindo
