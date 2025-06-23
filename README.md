@@ -1,5 +1,5 @@
 # IcarusOS
-# ![IcarusOS](./docs/banner.png)
+# ![IcarusOS](./docs/IcarusOS-Final.png)
 
 # ✨ IcarusOS — A Filosofia do Voo Baixo
 
