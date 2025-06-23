@@ -1,0 +1,45 @@
+synt1
+21
+5
+250
+S
+P(S)
+exec 500
+read 10
+V(S)
+exec 100
+P(S)
+exec 500
+write 15
+V(S)
+exec 100
+P(S)
+exec 500
+read 20
+V(S)
+exec 100
+P(S)
+exec 500
+write 25
+V(S)
+exec 100
+P(S)
+exec 500
+read 30
+V(S)
+exec 100
+P(S)
+exec 500
+write 35
+V(S)
+exec 100
+P(S)
+exec 500
+read 40
+V(S)
+exec 100
+P(S)
+exec 500
+write 45
+V(S)
+exec 100

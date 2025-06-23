@@ -1,0 +1,17 @@
+synt6
+26
+3
+300
+ZX
+exec 1000
+print 1000
+exec 1000
+P(Z)
+exec 2000
+print 1000
+P(X)
+exec 5000
+V(X)
+V(Z)
+exec 1000
+print 1000

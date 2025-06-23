@@ -1,0 +1,45 @@
+synt2
+22
+5
+250
+S
+P(S)
+exec 600
+read 110
+V(S)
+exec 120
+P(S)
+exec 600
+write 115
+V(S)
+exec 120
+P(S)
+exec 600
+read 120
+V(S)
+exec 120
+P(S)
+exec 600
+write 125
+V(S)
+exec 120
+P(S)
+exec 600
+read 130
+V(S)
+exec 120
+P(S)
+exec 600
+write 135
+V(S)
+exec 120
+P(S)
+exec 600
+read 140
+V(S)
+exec 120
+P(S)
+exec 600
+write 145
+V(S)
+exec 120

@@ -1,0 +1,17 @@
+synt5
+25
+3
+300
+YZ
+exec 1000
+read 101
+exec 1000
+P(Y)
+exec 2000
+read 102
+P(Z)
+exec 5000
+V(Z)
+V(Y)
+exec 1000
+read 103

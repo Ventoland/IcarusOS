@@ -1,0 +1,55 @@
+synt8
+27
+1
+350
+M
+P(M)
+exec 10000
+read 10
+write 11
+print 1500
+exec 10000
+read 20
+write 21
+print 1500
+exec 10000
+read 30
+write 31
+print 1500
+exec 10000
+read 40
+write 41
+print 1500
+V(M)
+P(M)
+exec 10000
+read 50
+write 51
+print 1500
+exec 10000
+read 60
+write 61
+print 1500
+exec 10000
+read 70
+write 71
+print 1500
+exec 10000
+read 80
+write 81
+print 1500
+V(M)
+P(M)
+exec 10000
+read 90
+write 91
+print 1500
+exec 10000
+read 100
+write 101
+print 1500
+exec 10000
+read 110
+write 111
+print 1500
+exec 10000

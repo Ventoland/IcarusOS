@@ -1,0 +1,17 @@
+synt4
+24
+3
+300
+XY
+exec 1000
+write 1
+exec 1000
+P(X)
+exec 2000
+write 2
+P(Y)
+exec 5000
+V(Y)
+V(X)
+exec 1000
+write 3
