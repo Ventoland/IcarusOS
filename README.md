@@ -11,8 +11,6 @@ Na metáfora:
 * ☀️ O **"sol"** representa as abstrações elevadas, que podem tornar o sistema poderoso, porém complexo e menos transparente.
 * 🌊 O **"mar"** simboliza a operação em baixo nível, onde reside o controle, a eficiência e a compreensão profunda da máquina.
 
-O **IcarusOS** não busca voar até o sol. Seu propósito é dominar o voo baixo, entendendo cada vento que sopra — cada ciclo, cada processo, cada operação de E/S — tal qual os sistemas operacionais fazem silenciosamente por trás das interfaces modernas.
-
 ---
 
 ## 🏗️ Como Rodar o IcarusOS
