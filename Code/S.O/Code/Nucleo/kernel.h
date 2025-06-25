@@ -1,5 +1,3 @@
-// Prevenção contra inclusão múltipla (Include Guard).
-// Garante que o conteúdo deste arquivo seja processado apenas uma vez pelo compilador.
 #ifndef KERNEL_H_GUARD
 #define KERNEL_H_GUARD
 
