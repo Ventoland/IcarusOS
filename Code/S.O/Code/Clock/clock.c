@@ -3,7 +3,7 @@
 #include "../Nucleo/kernel.h"
 #include <pthread.h>
 #include <stdio.h>
-#include <stdlib.h> // <--- ADICIONADO PARA CORRIGIR O ERRO
+#include <stdlib.h> 
 
 // Variável que armazena o tempo virtual da simulação
 static long long virtual_clock_time = 0;
