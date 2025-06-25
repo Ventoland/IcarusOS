@@ -1,4 +1,3 @@
-// Inclusão dos cabeçalhos de outros módulos do sistema operacional e bibliotecas padrão.
 #include "interface.h"
 #include "../Nucleo/kernel.h"
 #include "../Clock/clock.h"
