@@ -1,4 +1,3 @@
-// Inclusão dos cabeçalhos necessários para o funcionamento do módulo.
 #include "io_manager.h"
 #include "../Nucleo/kernel.h"
 #include "../Ferramentas/list.h"
